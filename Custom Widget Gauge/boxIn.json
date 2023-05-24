@@ -33,7 +33,7 @@
 	],
 	"properties": {
 		"value": {
-			"type": "float",
+			"type": "number",
 			"description": "Gauge value",
 			"default": "0"
 		},
@@ -79,7 +79,7 @@
 			"body": "this.value = newValue; this.info = newInfo; this.color = newColor;"
 		},
 		"getValue": {
-			"returnType": "integer",
+			"returnType": "number",
 			"description": "Returns the Gauge value.",
 			"body": "return this.value;"
 		}
