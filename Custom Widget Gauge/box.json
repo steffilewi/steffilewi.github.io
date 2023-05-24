@@ -26,7 +26,7 @@
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://example.demo/box/box_bps.js",
+			"url": "https://github.com/steffilewi/steffilewi.github.io/blob/dfe4d2f3e2d4888a5d37296feb2b4dfc1002800c/Custom%20Widget%20Gauge/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
