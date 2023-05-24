@@ -33,9 +33,9 @@
 	],
 	"properties": {
 		"value": {
-			"type": "number",
+			"type": "integer",
 			"description": "Gauge value",
-			"default": "0"
+			"default": 0
 		},
 		"info": {
 			"type": "string",
